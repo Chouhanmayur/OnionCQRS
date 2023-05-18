@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\HRMS-MR\\MRHRMS\\HRMS\\EmployeeManagement.API\\EmployeeManagement.API.csproj": {}
+    "C:\\HRMS-MR\\OnionCQRS\\EmployeeManagement.API\\EmployeeManagement.API.csproj": {}
   },
   "projects": {
-    "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management.Application\\Employee.Management.Application.csproj": {
+    "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Application\\Employee.Management.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management.Application\\Employee.Management.Application.csproj",
+        "projectUniqueName": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Application\\Employee.Management.Application.csproj",
         "projectName": "Employee.Management.Application",
-        "projectPath": "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management.Application\\Employee.Management.Application.csproj",
+        "projectPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Application\\Employee.Management.Application.csproj",
         "packagesPath": "C:\\Users\\6chou\\.nuget\\packages\\",
-        "outputPath": "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management.Application\\obj\\",
+        "outputPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\6chou\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management\\Employee.Management.Domain.csproj": {
-                "projectPath": "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management\\Employee.Management.Domain.csproj"
+              "C:\\HRMS-MR\\OnionCQRS\\Employee.Management\\Employee.Management.Domain.csproj": {
+                "projectPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management\\Employee.Management.Domain.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management.Infrastructure\\Employee.Management.Infrastructure.csproj": {
+    "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Infrastructure\\Employee.Management.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management.Infrastructure\\Employee.Management.Infrastructure.csproj",
+        "projectUniqueName": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Infrastructure\\Employee.Management.Infrastructure.csproj",
         "projectName": "Employee.Management.Infrastructure",
-        "projectPath": "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management.Infrastructure\\Employee.Management.Infrastructure.csproj",
+        "projectPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Infrastructure\\Employee.Management.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\6chou\\.nuget\\packages\\",
-        "outputPath": "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management.Infrastructure\\obj\\",
+        "outputPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\6chou\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -105,8 +105,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management.Application\\Employee.Management.Application.csproj": {
-                "projectPath": "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management.Application\\Employee.Management.Application.csproj"
+              "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Application\\Employee.Management.Application.csproj": {
+                "projectPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Application\\Employee.Management.Application.csproj"
               }
             }
           }
@@ -154,14 +154,14 @@
         }
       }
     },
-    "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management.Persistence\\Employee.Management.Persistence.csproj": {
+    "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Persistence\\Employee.Management.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management.Persistence\\Employee.Management.Persistence.csproj",
+        "projectUniqueName": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Persistence\\Employee.Management.Persistence.csproj",
         "projectName": "Employee.Management.Persistence",
-        "projectPath": "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management.Persistence\\Employee.Management.Persistence.csproj",
+        "projectPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Persistence\\Employee.Management.Persistence.csproj",
         "packagesPath": "C:\\Users\\6chou\\.nuget\\packages\\",
-        "outputPath": "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management.Persistence\\obj\\",
+        "outputPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\6chou\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -178,8 +178,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management.Application\\Employee.Management.Application.csproj": {
-                "projectPath": "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management.Application\\Employee.Management.Application.csproj"
+              "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Application\\Employee.Management.Application.csproj": {
+                "projectPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Application\\Employee.Management.Application.csproj"
               }
             }
           }
@@ -223,14 +223,14 @@
         }
       }
     },
-    "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management\\Employee.Management.Domain.csproj": {
+    "C:\\HRMS-MR\\OnionCQRS\\Employee.Management\\Employee.Management.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management\\Employee.Management.Domain.csproj",
+        "projectUniqueName": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management\\Employee.Management.Domain.csproj",
         "projectName": "Employee.Management.Domain",
-        "projectPath": "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management\\Employee.Management.Domain.csproj",
+        "projectPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management\\Employee.Management.Domain.csproj",
         "packagesPath": "C:\\Users\\6chou\\.nuget\\packages\\",
-        "outputPath": "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management\\obj\\",
+        "outputPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\6chou\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -278,14 +278,14 @@
         }
       }
     },
-    "C:\\HRMS-MR\\MRHRMS\\HRMS\\EmployeeManagement.API\\EmployeeManagement.API.csproj": {
+    "C:\\HRMS-MR\\OnionCQRS\\EmployeeManagement.API\\EmployeeManagement.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HRMS-MR\\MRHRMS\\HRMS\\EmployeeManagement.API\\EmployeeManagement.API.csproj",
+        "projectUniqueName": "C:\\HRMS-MR\\OnionCQRS\\EmployeeManagement.API\\EmployeeManagement.API.csproj",
         "projectName": "EmployeeManagement.API",
-        "projectPath": "C:\\HRMS-MR\\MRHRMS\\HRMS\\EmployeeManagement.API\\EmployeeManagement.API.csproj",
+        "projectPath": "C:\\HRMS-MR\\OnionCQRS\\EmployeeManagement.API\\EmployeeManagement.API.csproj",
         "packagesPath": "C:\\Users\\6chou\\.nuget\\packages\\",
-        "outputPath": "C:\\HRMS-MR\\MRHRMS\\HRMS\\EmployeeManagement.API\\obj\\",
+        "outputPath": "C:\\HRMS-MR\\OnionCQRS\\EmployeeManagement.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\6chou\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -302,14 +302,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management.Application\\Employee.Management.Application.csproj": {
-                "projectPath": "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management.Application\\Employee.Management.Application.csproj"
+              "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Application\\Employee.Management.Application.csproj": {
+                "projectPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Application\\Employee.Management.Application.csproj"
               },
-              "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management.Infrastructure\\Employee.Management.Infrastructure.csproj": {
-                "projectPath": "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management.Infrastructure\\Employee.Management.Infrastructure.csproj"
+              "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Infrastructure\\Employee.Management.Infrastructure.csproj": {
+                "projectPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Infrastructure\\Employee.Management.Infrastructure.csproj"
               },
-              "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management.Persistence\\Employee.Management.Persistence.csproj": {
-                "projectPath": "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management.Persistence\\Employee.Management.Persistence.csproj"
+              "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Persistence\\Employee.Management.Persistence.csproj": {
+                "projectPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Persistence\\Employee.Management.Persistence.csproj"
               }
             }
           }

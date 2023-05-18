@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management\\Employee.Management.Domain.csproj",
+      "projectUniqueName": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management\\Employee.Management.Domain.csproj",
       "projectName": "Employee.Management.Domain",
-      "projectPath": "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management\\Employee.Management.Domain.csproj",
+      "projectPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management\\Employee.Management.Domain.csproj",
       "packagesPath": "C:\\Users\\6chou\\.nuget\\packages\\",
-      "outputPath": "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management\\obj\\",
+      "outputPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\6chou\\AppData\\Roaming\\NuGet\\NuGet.Config",

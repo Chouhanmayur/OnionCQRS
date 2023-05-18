@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z6mTk87w5OdHScpMwt0qdMsqltK0NEQUS2CakjxpdV9hCu67WTsucK6+DcySzyN2WNSE90RN4FeOJO1ptALDPw==",
+  "dgSpecHash": "3o3XD8qAGYUh2aJRkRmnibNqyGCi6Beo8UgzxOoAZpRdPbcrL7JSPch0ptgDK/omO0RoJoC8HbXbk05mlSo00A==",
   "success": true,
-  "projectFilePath": "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management.Infrastructure\\Employee.Management.Infrastructure.csproj",
+  "projectFilePath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Infrastructure\\Employee.Management.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\6chou\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\6chou\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

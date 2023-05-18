@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NLiZBJe0waRrEsT6teH5RtDSu8m5acsU3cV5pvX11Ffm1HxtrfFrRvm9ZZ0fWWWj9QzVauveb9WdVCOiGFjlYQ==",
+  "dgSpecHash": "xrH+5y9kq66GskqudVbP6IQY02sxv3NLkhUYSqoxpY+FZqp1pXEcwv0e05BmZZXalb+FTVVhaVsEIZYgvxPl7w==",
   "success": true,
-  "projectFilePath": "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management\\Employee.Management.Domain.csproj",
+  "projectFilePath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management\\Employee.Management.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

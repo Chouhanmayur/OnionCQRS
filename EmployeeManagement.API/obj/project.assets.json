@@ -4172,11 +4172,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\HRMS-MR\\MRHRMS\\HRMS\\EmployeeManagement.API\\EmployeeManagement.API.csproj",
+      "projectUniqueName": "C:\\HRMS-MR\\OnionCQRS\\EmployeeManagement.API\\EmployeeManagement.API.csproj",
       "projectName": "EmployeeManagement.API",
-      "projectPath": "C:\\HRMS-MR\\MRHRMS\\HRMS\\EmployeeManagement.API\\EmployeeManagement.API.csproj",
+      "projectPath": "C:\\HRMS-MR\\OnionCQRS\\EmployeeManagement.API\\EmployeeManagement.API.csproj",
       "packagesPath": "C:\\Users\\6chou\\.nuget\\packages\\",
-      "outputPath": "C:\\HRMS-MR\\MRHRMS\\HRMS\\EmployeeManagement.API\\obj\\",
+      "outputPath": "C:\\HRMS-MR\\OnionCQRS\\EmployeeManagement.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\6chou\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4193,14 +4193,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management.Application\\Employee.Management.Application.csproj": {
-              "projectPath": "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management.Application\\Employee.Management.Application.csproj"
+            "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Application\\Employee.Management.Application.csproj": {
+              "projectPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Application\\Employee.Management.Application.csproj"
             },
-            "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management.Infrastructure\\Employee.Management.Infrastructure.csproj": {
-              "projectPath": "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management.Infrastructure\\Employee.Management.Infrastructure.csproj"
+            "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Infrastructure\\Employee.Management.Infrastructure.csproj": {
+              "projectPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Infrastructure\\Employee.Management.Infrastructure.csproj"
             },
-            "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management.Persistence\\Employee.Management.Persistence.csproj": {
-              "projectPath": "C:\\HRMS-MR\\MRHRMS\\HRMS\\Employee.Management.Persistence\\Employee.Management.Persistence.csproj"
+            "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Persistence\\Employee.Management.Persistence.csproj": {
+              "projectPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Persistence\\Employee.Management.Persistence.csproj"
             }
           }
         }
