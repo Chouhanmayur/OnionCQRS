@@ -1,0 +1,17 @@
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management.Infrastructure\bin\Debug\net6.0\Employee.Management.Infrastructure.deps.json
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management.Infrastructure\bin\Debug\net6.0\Employee.Management.Infrastructure.dll
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management.Infrastructure\bin\Debug\net6.0\Employee.Management.Infrastructure.pdb
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management.Infrastructure\obj\Debug\net6.0\Employee.Management.Infrastructure.csproj.AssemblyReference.cache
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management.Infrastructure\obj\Debug\net6.0\Employee.Management.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management.Infrastructure\obj\Debug\net6.0\Employee.Management.Infrastructure.AssemblyInfoInputs.cache
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management.Infrastructure\obj\Debug\net6.0\Employee.Management.Infrastructure.AssemblyInfo.cs
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management.Infrastructure\obj\Debug\net6.0\Employee.Management.Infrastructure.csproj.CoreCompileInputs.cache
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management.Infrastructure\obj\Debug\net6.0\Employee.Management.Infrastructure.dll
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management.Infrastructure\obj\Debug\net6.0\refint\Employee.Management.Infrastructure.dll
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management.Infrastructure\obj\Debug\net6.0\Employee.Management.Infrastructure.pdb
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management.Infrastructure\obj\Debug\net6.0\ref\Employee.Management.Infrastructure.dll
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management.Infrastructure\bin\Debug\net6.0\Employee.Management.Application.dll
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management.Infrastructure\bin\Debug\net6.0\Employee.Management.Domain.dll
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management.Infrastructure\bin\Debug\net6.0\Employee.Management.Application.pdb
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management.Infrastructure\bin\Debug\net6.0\Employee.Management.Domain.pdb
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management.Infrastructure\obj\Debug\net6.0\Employee.Management.Infrastructure.csproj.CopyComplete

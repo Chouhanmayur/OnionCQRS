@@ -1,0 +1,12 @@
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management\bin\Debug\net6.0\Employee.Management.Domain.deps.json
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management\bin\Debug\net6.0\Employee.Management.Domain.dll
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management\bin\Debug\net6.0\Employee.Management.Domain.pdb
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management\obj\Debug\net6.0\Employee.Management.Domain.csproj.AssemblyReference.cache
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management\obj\Debug\net6.0\Employee.Management.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management\obj\Debug\net6.0\Employee.Management.Domain.AssemblyInfoInputs.cache
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management\obj\Debug\net6.0\Employee.Management.Domain.AssemblyInfo.cs
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management\obj\Debug\net6.0\Employee.Management.Domain.csproj.CoreCompileInputs.cache
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management\obj\Debug\net6.0\Employee.Management.Domain.dll
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management\obj\Debug\net6.0\refint\Employee.Management.Domain.dll
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management\obj\Debug\net6.0\Employee.Management.Domain.pdb
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management\obj\Debug\net6.0\ref\Employee.Management.Domain.dll

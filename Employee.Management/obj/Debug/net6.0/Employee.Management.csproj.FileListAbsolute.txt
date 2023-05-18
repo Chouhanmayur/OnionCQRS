@@ -1,0 +1,12 @@
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management\bin\Debug\net6.0\Employee.Management.deps.json
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management\bin\Debug\net6.0\Employee.Management.dll
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management\bin\Debug\net6.0\Employee.Management.pdb
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management\obj\Debug\net6.0\Employee.Management.csproj.AssemblyReference.cache
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management\obj\Debug\net6.0\Employee.Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management\obj\Debug\net6.0\Employee.Management.AssemblyInfoInputs.cache
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management\obj\Debug\net6.0\Employee.Management.AssemblyInfo.cs
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management\obj\Debug\net6.0\Employee.Management.csproj.CoreCompileInputs.cache
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management\obj\Debug\net6.0\Employee.Management.dll
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management\obj\Debug\net6.0\refint\Employee.Management.dll
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management\obj\Debug\net6.0\Employee.Management.pdb
+C:\HRMS-MR\MRHRMS\HRMS\Employee.Management\obj\Debug\net6.0\ref\Employee.Management.dll
