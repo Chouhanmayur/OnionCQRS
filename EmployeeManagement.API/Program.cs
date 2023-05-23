@@ -2,6 +2,7 @@
 using Employee.Management.Persistence;
 using Employee.Management.Application;
 using Employee.Management.Infrastructure;
+using EmployeeManagement.API.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -26,6 +27,8 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
+
+app.UseMiddleware<ExceptionMiddleware> ();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

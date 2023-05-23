@@ -19,6 +19,8 @@ namespace Employee.Management.Persistence.DataBaseContext
 
         public DbSet<Domain.Employee> Employees { get; set;}
 
+        public DbSet<Domain.City> Cities { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(EmployeeDatabaseContext).Assembly);
