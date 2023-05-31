@@ -15,15 +15,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{71F12165-9
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{51E449BB-0ACF-421E-AA5A-C09FDDE99AAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee.Management.Domain", "Employee.Management\Employee.Management.Domain.csproj", "{BA77579E-A68D-4470-9876-8A0D3AD054B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Employee.Management.Domain", "Employee.Management\Employee.Management.Domain.csproj", "{BA77579E-A68D-4470-9876-8A0D3AD054B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee.Management.Application", "Employee.Management.Application\Employee.Management.Application.csproj", "{BCD50930-FF38-4DA7-9630-72AF0F3C982A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Employee.Management.Application", "Employee.Management.Application\Employee.Management.Application.csproj", "{BCD50930-FF38-4DA7-9630-72AF0F3C982A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee.Management.Persistence", "Employee.Management.Persistence\Employee.Management.Persistence.csproj", "{2F79009E-F638-4DBF-85AD-9B51BB953794}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Employee.Management.Persistence", "Employee.Management.Persistence\Employee.Management.Persistence.csproj", "{2F79009E-F638-4DBF-85AD-9B51BB953794}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement.API", "EmployeeManagement.API\EmployeeManagement.API.csproj", "{8F696573-E163-4A6E-A40D-F07DC2C93B63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagement.API", "EmployeeManagement.API\EmployeeManagement.API.csproj", "{8F696573-E163-4A6E-A40D-F07DC2C93B63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee.Management.Infrastructure", "Employee.Management.Infrastructure\Employee.Management.Infrastructure.csproj", "{ACA96624-C35D-435A-BB01-2D5C8714EE47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Employee.Management.Infrastructure", "Employee.Management.Infrastructure\Employee.Management.Infrastructure.csproj", "{ACA96624-C35D-435A-BB01-2D5C8714EE47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee.Management.Application.UnitTests", "Employee.Management.Application.UnitTests\Employee.Management.Application.UnitTests.csproj", "{2F96CE8F-AEA2-43DB-A368-06671C4995A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{ACA96624-C35D-435A-BB01-2D5C8714EE47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACA96624-C35D-435A-BB01-2D5C8714EE47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACA96624-C35D-435A-BB01-2D5C8714EE47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F96CE8F-AEA2-43DB-A368-06671C4995A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F96CE8F-AEA2-43DB-A368-06671C4995A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F96CE8F-AEA2-43DB-A368-06671C4995A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F96CE8F-AEA2-43DB-A368-06671C4995A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -65,6 +71,7 @@ Global
 		{2F79009E-F638-4DBF-85AD-9B51BB953794} = {51E449BB-0ACF-421E-AA5A-C09FDDE99AAA}
 		{8F696573-E163-4A6E-A40D-F07DC2C93B63} = {858BC825-5B95-42D1-80A4-5356A7FF015D}
 		{ACA96624-C35D-435A-BB01-2D5C8714EE47} = {51E449BB-0ACF-421E-AA5A-C09FDDE99AAA}
+		{2F96CE8F-AEA2-43DB-A368-06671C4995A2} = {3DCA9776-4925-461F-BF8A-EBB6721E8055}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {844F0439-BD04-4116-91F1-25825574E123}

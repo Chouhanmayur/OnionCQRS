@@ -148,6 +148,7 @@ C:\HRMS-MR\OnionCQRS\EmployeeManagement.API\bin\Debug\net6.0\Microsoft.OpenApi.d
 C:\HRMS-MR\OnionCQRS\EmployeeManagement.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
 C:\HRMS-MR\OnionCQRS\EmployeeManagement.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\HRMS-MR\OnionCQRS\EmployeeManagement.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\HRMS-MR\OnionCQRS\EmployeeManagement.API\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\HRMS-MR\OnionCQRS\EmployeeManagement.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\HRMS-MR\OnionCQRS\EmployeeManagement.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\HRMS-MR\OnionCQRS\EmployeeManagement.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -204,4 +205,3 @@ C:\HRMS-MR\OnionCQRS\EmployeeManagement.API\obj\Debug\net6.0\refint\EmployeeMana
 C:\HRMS-MR\OnionCQRS\EmployeeManagement.API\obj\Debug\net6.0\EmployeeManagement.API.pdb
 C:\HRMS-MR\OnionCQRS\EmployeeManagement.API\obj\Debug\net6.0\EmployeeManagement.API.genruntimeconfig.cache
 C:\HRMS-MR\OnionCQRS\EmployeeManagement.API\obj\Debug\net6.0\ref\EmployeeManagement.API.dll
-C:\HRMS-MR\OnionCQRS\EmployeeManagement.API\bin\Debug\net6.0\Newtonsoft.Json.dll
