@@ -6,17 +6,28 @@ using EmployeeManagement.API.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(builder =>
+    {
+       // builder.AllowAnyOrigin()
+        builder.WithOrigins("https://localhost:7146")
+               .AllowAnyHeader()
+               .AllowAnyMethod();
+    });
+});
+
 // Add services to the container.
 builder.Services.AddApplicationServices();
 builder.Services.AddInfrastructureServices(builder.Configuration);
 builder.Services.AddPersistenceServices(builder.Configuration);
 
-builder.Services.AddCors(options =>
-{
-    options.AddPolicy("all", builder => builder.AllowAnyOrigin()
-.AllowAnyHeader()
-.AllowAnyMethod());
-});
+//builder.Services.AddCors(options =>
+//{
+//    options.AddPolicy("all", builder => builder.AllowAnyOrigin()
+//.AllowAnyHeader()
+//.AllowAnyMethod());
+//});
 
 
 //builder.Services.AddPersistenceServices(builder.Configuration);
@@ -27,6 +38,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
+app.UseCors();
 
 app.UseMiddleware<ExceptionMiddleware> ();
 

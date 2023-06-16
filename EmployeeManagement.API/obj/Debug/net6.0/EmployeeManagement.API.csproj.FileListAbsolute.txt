@@ -205,3 +205,4 @@ C:\HRMS-MR\OnionCQRS\EmployeeManagement.API\obj\Debug\net6.0\refint\EmployeeMana
 C:\HRMS-MR\OnionCQRS\EmployeeManagement.API\obj\Debug\net6.0\EmployeeManagement.API.pdb
 C:\HRMS-MR\OnionCQRS\EmployeeManagement.API\obj\Debug\net6.0\EmployeeManagement.API.genruntimeconfig.cache
 C:\HRMS-MR\OnionCQRS\EmployeeManagement.API\obj\Debug\net6.0\ref\EmployeeManagement.API.dll
+C:\HRMS-MR\OnionCQRS\EmployeeManagement.API\bin\Debug\net6.0\EmployeeManagement.API.staticwebassets.runtime.json

@@ -1,0 +1,451 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\HRMS-MR\\OnionCQRS\\Client\\BlazorCrud.Client.csproj": {}
+  },
+  "projects": {
+    "C:\\HRMS-MR\\OnionCQRS\\Client\\BlazorCrud.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\HRMS-MR\\OnionCQRS\\Client\\BlazorCrud.Client.csproj",
+        "projectName": "BlazorCrud.Client",
+        "projectPath": "C:\\HRMS-MR\\OnionCQRS\\Client\\BlazorCrud.Client.csproj",
+        "packagesPath": "C:\\Users\\6chou\\.nuget\\packages\\",
+        "outputPath": "C:\\HRMS-MR\\OnionCQRS\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\6chou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\HRMS-MR\\OnionCQRS\\EmployeeManagement.API\\EmployeeManagement.API.csproj": {
+                "projectPath": "C:\\HRMS-MR\\OnionCQRS\\EmployeeManagement.API\\EmployeeManagement.API.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.15, 6.0.15]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Application\\Employee.Management.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Application\\Employee.Management.Application.csproj",
+        "projectName": "Employee.Management.Application",
+        "projectPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Application\\Employee.Management.Application.csproj",
+        "packagesPath": "C:\\Users\\6chou\\.nuget\\packages\\",
+        "outputPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\6chou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\HRMS-MR\\OnionCQRS\\Employee.Management\\Employee.Management.Domain.csproj": {
+                "projectPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management\\Employee.Management.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Infrastructure\\Employee.Management.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Infrastructure\\Employee.Management.Infrastructure.csproj",
+        "projectName": "Employee.Management.Infrastructure",
+        "projectPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Infrastructure\\Employee.Management.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\6chou\\.nuget\\packages\\",
+        "outputPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\6chou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Application\\Employee.Management.Application.csproj": {
+                "projectPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Application\\Employee.Management.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Persistence\\Employee.Management.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Persistence\\Employee.Management.Persistence.csproj",
+        "projectName": "Employee.Management.Persistence",
+        "projectPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Persistence\\Employee.Management.Persistence.csproj",
+        "packagesPath": "C:\\Users\\6chou\\.nuget\\packages\\",
+        "outputPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\6chou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Application\\Employee.Management.Application.csproj": {
+                "projectPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Application\\Employee.Management.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\HRMS-MR\\OnionCQRS\\Employee.Management\\Employee.Management.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management\\Employee.Management.Domain.csproj",
+        "projectName": "Employee.Management.Domain",
+        "projectPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management\\Employee.Management.Domain.csproj",
+        "packagesPath": "C:\\Users\\6chou\\.nuget\\packages\\",
+        "outputPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\6chou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\HRMS-MR\\OnionCQRS\\EmployeeManagement.API\\EmployeeManagement.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\HRMS-MR\\OnionCQRS\\EmployeeManagement.API\\EmployeeManagement.API.csproj",
+        "projectName": "EmployeeManagement.API",
+        "projectPath": "C:\\HRMS-MR\\OnionCQRS\\EmployeeManagement.API\\EmployeeManagement.API.csproj",
+        "packagesPath": "C:\\Users\\6chou\\.nuget\\packages\\",
+        "outputPath": "C:\\HRMS-MR\\OnionCQRS\\EmployeeManagement.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\6chou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Application\\Employee.Management.Application.csproj": {
+                "projectPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Application\\Employee.Management.Application.csproj"
+              },
+              "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Infrastructure\\Employee.Management.Infrastructure.csproj": {
+                "projectPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Infrastructure\\Employee.Management.Infrastructure.csproj"
+              },
+              "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Persistence\\Employee.Management.Persistence.csproj": {
+                "projectPath": "C:\\HRMS-MR\\OnionCQRS\\Employee.Management.Persistence\\Employee.Management.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
